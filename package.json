@@ -1,0 +1,15 @@
+{
+  "name": "serverless-simple",
+  "version": "0.0.1",
+  "description": "Develop and deploy serverless-simple apps",
+  "main": "index.js",
+  "author": "Tyler Flint",
+  "license": "MIT",
+  "private": false,
+  "bin": {
+    "simple": "./bin/simple.js"
+  },
+  "dependencies": {
+    "commander": "^6.1.0"
+  }
+}
