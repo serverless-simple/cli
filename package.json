@@ -10,6 +10,14 @@
     "simple": "./bin/simple.js"
   },
   "dependencies": {
-    "commander": "^6.1.0"
+    "@cloudflare/wrangler": "^1.11.0",
+    "commander": "^6.1.0",
+    "faunadb": "^3.0.1",
+    "inquirer": "^7.3.3",
+    "lodash.difference": "^4.5.0",
+    "lodash.filter": "^4.6.0",
+    "lodash.get": "^4.4.2",
+    "mustache": "^4.0.1",
+    "short-unique-id": "^3.0.4"
   }
 }
